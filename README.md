@@ -1,6 +1,6 @@
 # onboarding_app
 
-On boarding app
+Onboarding app
 
 ## Getting Started
 
