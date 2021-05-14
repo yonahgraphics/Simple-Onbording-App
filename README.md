@@ -2,7 +2,8 @@
 
 ## About the project
 
-This project is a simple flutter onboarding application 
+This project is a simple flutter onboarding application.
+
 It is made for a food deliverly app, but can be customized for any project.
 
 ## The Designer
